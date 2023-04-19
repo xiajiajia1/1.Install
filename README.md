@@ -6,9 +6,10 @@ android studio code安装成功，生成helloworld：
 #
 ## VScode安装及下载插件 ##
 vscode安装完成+下载notebook插件+python插件
-![](1.2.PNG)
+![](./picture/1.2.PNG)
 #
 ## anaconda安装及jupyter ##
 anaconda安装＋jupyter安装
-![](1.4.PNG)
+![](./picture/1.3.PNG)
+![](./picture/1.4.PNG)
 
