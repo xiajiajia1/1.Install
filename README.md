@@ -10,6 +10,6 @@ vscode安装完成+下载notebook插件+python插件
 #
 ## anaconda安装及jupyter ##
 anaconda安装＋jupyter安装
-![](./picture/1.3.PNG)
-![](./picture/1.4.PNG)
+![anaconda](./picture/1.3.png)
+![jupyter](./picture/1.4.png)
 
